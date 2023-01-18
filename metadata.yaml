@@ -1,0 +1,31 @@
+_repo: The-case-book-of-Sherlock-Holmes_69700
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Conan Doyle, Arthur, Sir
+    - Doyle, Sir Arthur Conan
+    - Doyle, A. Conan
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2023-01-03'
+identifiers:
+  gutenberg: '69700'
+language: en
+pgterms:marc905: 20230102150150doyle
+pgterms:marc906: '1927'
+pgterms:marc907: GB
+production_note: Al Haines
+publication_note: 'United Kingdom: John Murray,1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The case-book of Sherlock Holmes
+url: http://www.gutenberg.org/ebooks/69700
